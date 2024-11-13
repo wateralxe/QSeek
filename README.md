@@ -6,6 +6,6 @@
 
 
 
-- To use QSeek,  **run ./qpsolver cutoff_time(second) filename.lp**. 
+- To use QSeek,  **run ./QSeek cutoff_time(second) filename.lp**. 
 
 - The paper on **LS-IQCQP** can be found at: https://arxiv.org/abs/2409.19668. The binary source code for **LS-IQCQP** is available at: [wateralxe/LS-IQCQP: A local search solver for integer QCQP problems](https://github.com/wateralxe/LS-IQCQP).
