@@ -2,7 +2,7 @@
 
 ## Author: XiangHe and Shaowei Cai
 
-​		**QSeek** is a local search solver designed for general **mixed-integer quadratic programming** (MIQP) problems, capable of handling cases where quadratic terms appear in the objective function, constraints, or both. It is the updated version of **LS-IQCQP**. Unlike its predecessor, LS-IQCQP, which primarily solves integer quadratic programming (IQP) problems, **QSeek** extends its capabilities to solve not only integer problems but also **mixed-integer** problems.
+​		     **QSeek** is a local search solver designed for general **mixed-integer quadratic programming** (MIQP) problems, capable of handling cases where quadratic terms appear in the objective function, constraints, or both. It is the updated version of **LS-IQCQP**. Unlike its predecessor, LS-IQCQP, which primarily solves integer quadratic programming (IQP) problems, **QSeek** extends its capabilities to solve not only integer problems but also **mixed-integer** problems.
 
 
 
